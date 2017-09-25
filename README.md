@@ -1,5 +1,8 @@
-# lazyuiautomatorviewer
+#lazyuiautomatorviewer
 
-1. å°†æ‰€æœ‰jaråŒ…æ‹·è´åˆ°%SDK%/tools\libç›®å½•ä¸‹ï¼Œè¦†ç›–åŸæ¥çš„uiautomatorviewer.jar 
-2. ä½¿ç”¨%SDK%/tools\uiautomatorviewer.bat è¿è¡Œå³å¯ã€‚ 
-3. æ›´å¤šå¼€æºæµ‹è¯•å·¥å…·å‚è§åšå®¢ï¼šhttp://blog.csdn.net/kaka1121
+    ½«ËùÓĞjar°ü¿½±´µ½%SDK%/tools\libÄ¿Â¼ÏÂ£¬¸²¸ÇÔ­À´µÄuiautomatorviewer.jar
+    Ê¹ÓÃ%SDK%/tools\uiautomatorviewer.bat ÔËĞĞ¼´¿É¡£
+    ¸ü¶à¿ªÔ´²âÊÔ¹¤¾ß²Î¼û²©¿Í£ºhttp://blog.csdn.net/kaka1121
+
+##ÓÉÓÚÔ­×÷ÕßµÄÏîÄ¿ÎŞ·¨ÔÚ±¾ÈËµçÄÔÉÏÔËĞĞ£¬ÒòÎªbat½Å±¾µÄÔ­Òò£¬ËùÒÔ¶ÔÔ­À´µÄÏîÄ¿½øĞĞÁËĞŞ¸Ä£¬Ê¹ËüÄÜ¹»¶ÀÁ¢ÔËĞĞ£¬²»ÔÙÒÀÀµbat½Å±¾
+
